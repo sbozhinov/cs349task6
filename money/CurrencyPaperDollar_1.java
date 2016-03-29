@@ -1,0 +1,10 @@
+
+package task6.money;
+
+public class CurrencyPaperDollar_1 extends A_CurrencyPaper{
+
+	public CurrencyPaperDollar_1(){
+		super(new Money(1,0),"single");
+	}
+	
+}
